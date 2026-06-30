@@ -209,7 +209,3 @@ ai-video-generator/
 - YouTube / TikTok publishing
 
 ---
-
-## License
-
-MIT
